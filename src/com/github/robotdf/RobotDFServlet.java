@@ -17,7 +17,7 @@ public class RobotDFServlet extends AbstractRobotServlet {
 
 	private final static String VERSION = "1";
 	
-	Pattern pattern = Pattern.compile("owl:sameAs\\[\\.+\\]");
+	Pattern pattern = Pattern.compile("owl:sameAs\\[.+\\]");
 
 	@Override
 	public void processEvents(RobotMessageBundle bundle) {
