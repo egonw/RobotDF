@@ -7,5 +7,5 @@
     <w:capability name="BLIP_VERSION_CHANGED" content="true" />
   </w:capabilities>
   <w:version>3</w:version>
-  <w:profile name="CDKitty" imageurl="/avatar.png" profileurl="/_wave/profile.xml" />
+  <w:profile name="RobotDF" imageurl="/avatar.png" profileurl="/_wave/profile.xml" />
 </w:robot>
