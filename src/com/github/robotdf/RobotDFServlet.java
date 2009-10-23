@@ -17,7 +17,7 @@ public class RobotDFServlet extends AbstractRobotServlet {
 
 	private final static String VERSION = "1";
 	
-	Pattern pattern = Pattern.compile("owl:sameAs\\[\\.+\\]");
+	Pattern pattern = Pattern.compile("owl:sameAs\\[.+\\]");
 
 	@Override
 	public void processEvents(RobotMessageBundle bundle) {
@@ -50,7 +50,8 @@ public class RobotDFServlet extends AbstractRobotServlet {
 				int start = matcher.start();
 				int end = matcher.end();
 
-				String replacement = match.substring("owl:sameAs[".length()).trim();
+				String replacement = match.substring("owl:sameAs[".length());
+				replacement = replacement.substring(0, replacement.length()-1);
 				if (replacement != null && replacement.length() > 0) {
 					textView.replace(
 						new Range(start, end),
