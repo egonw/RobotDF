@@ -5,7 +5,7 @@ Open this project with Eclipse 3.5 and the Google plugin.
 
 Needed Google Wave jars [0,1]:
 
-appengine-api-1.0-sdk-1.2.2.jar
+appengine-api-1.0-sdk-1.2.2.jar (or higher)
 datanucleus-appengine-1.0.2.final.jar
 datanucleus-core-1.1.4-gae.jar
 datanucleus-jpa-1.1.4.jar
@@ -14,7 +14,7 @@ geronimo-jta_1.1_spec-1.1.1.jar
 jdo2-api-2.3-ea.jar
 json.jar
 jsonrpc.jar
-wave-robot-api-20090813.jar
+wave-robot-api-20090813.jar (or higher)
 
 which all need to go into war/WEB-INF/lib
 
