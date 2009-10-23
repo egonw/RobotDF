@@ -5,16 +5,27 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/json.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/jsonrpc.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/wave-robot-api-20090813.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-annotation.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-core.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-data.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-formula.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-interfaces.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-nonotify.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-standard.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/jgrapht-0.6.0.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/log4j.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/vecmath1.2-1.14.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jena.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/arq.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/iri.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/slf4j-simple-1.5.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/stax-api-1.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/wstx-asl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jenatest.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/junit.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/slf4j-api-1.5.0.jar"/>
 	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
