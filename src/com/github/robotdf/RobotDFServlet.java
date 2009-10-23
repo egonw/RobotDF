@@ -1,4 +1,4 @@
-package org.openscience.cdk.itty;
+package com.github.robotdf;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

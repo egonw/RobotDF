@@ -1,4 +1,4 @@
-package org.openscience.cdk.itty;
+package com.github.robotdf;
 
 import com.google.wave.api.ProfileServlet;
 

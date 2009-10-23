@@ -4,16 +4,16 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd">
 <web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
     <servlet>
-        <servlet-name>CDKitty</servlet-name>
-        <servlet-class>org.openscience.cdk.itty.CDKittyServlet</servlet-class>
+        <servlet-name>RobotDF</servlet-name>
+        <servlet-class>com.github.robotdf.RobotDFServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>CDKitty</servlet-name>
+        <servlet-name>RobotDF</servlet-name>
         <url-pattern>/_wave/robot/jsonrpc</url-pattern>
     </servlet-mapping>
     <servlet>
         <servlet-name>profile</servlet-name>
-        <servlet-class>org.openscience.cdk.itty.CDKittyProfileServlet</servlet-class>
+        <servlet-class>com.github.robotdf.RobotDFProfileServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>profile</servlet-name>
