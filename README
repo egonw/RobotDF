@@ -1,20 +1,7 @@
-CDKitty - The Chemistry Development Kit Google Wave Robot
----------------------------------------------------------
+RobotRDF - Google Wave Robot for RDF functionality
+--------------------------------------------------
 
-Open this lot with Eclipse 3.5 and the Google plugin.
-
-Needed CDK jars:
-
-cdk-annotation.jar
-cdk-core.jar
-cdk-data.jar
-cdk-formula.jar
-cdk-interfaces.jar
-cdk-nonotify.jar
-cdk-standard.jar
-jgrapht-0.6.0.jar
-log4j.jar
-vecmath1.2-1.14.jar
+Open this project with Eclipse 3.5 and the Google plugin.
 
 Needed Google Wave jars [0,1]:
 

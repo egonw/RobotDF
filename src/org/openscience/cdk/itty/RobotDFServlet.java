@@ -18,7 +18,7 @@ import com.google.wave.api.TextView;
 import com.google.wave.api.Wavelet;
 
 @SuppressWarnings("serial")
-public class CDKittyServlet extends AbstractRobotServlet {
+public class RobotDFServlet extends AbstractRobotServlet {
 
 	private final static String VERSION = "8";
 	
