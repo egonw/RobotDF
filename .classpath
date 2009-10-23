@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/json.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jsonrpc.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/wave-robot-api-20090813.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-annotation.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-core.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-data.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-formula.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-interfaces.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-nonotify.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdk-standard.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jgrapht-0.6.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/vecmath1.2-1.14.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

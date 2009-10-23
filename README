@@ -1,0 +1,37 @@
+CDKitty - The Chemistry Development Kit Google Wave Robot
+---------------------------------------------------------
+
+Open this lot with Eclipse 3.5 and the Google plugin.
+
+Needed CDK jars:
+
+cdk-annotation.jar
+cdk-core.jar
+cdk-data.jar
+cdk-formula.jar
+cdk-interfaces.jar
+cdk-nonotify.jar
+cdk-standard.jar
+jgrapht-0.6.0.jar
+log4j.jar
+vecmath1.2-1.14.jar
+
+Needed Google Wave jars [0,1]:
+
+appengine-api-1.0-sdk-1.2.2.jar
+datanucleus-appengine-1.0.2.final.jar
+datanucleus-core-1.1.4-gae.jar
+datanucleus-jpa-1.1.4.jar
+geronimo-jpa_3.0_spec-1.1.1.jar
+geronimo-jta_1.1_spec-1.1.1.jar
+jdo2-api-2.3-ea.jar
+json.jar
+jsonrpc.jar
+wave-robot-api-20090813.jar
+
+which all need to go into war/WEB-INF/lib
+
+References
+
+0.Most of these jars you get when you set up a new Google App project.
+1.http://code.google.com/p/wave-robot-java-client/downloads/list

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:robot xmlns:w="http://wave.google.com/extensions/robots/1.0">
+  <w:capabilities>
+    <w:capability name="WAVELET_PARTICIPANTS_CHANGED" content="true" />
+    <w:capability name="WAVELET_SELF_ADDED" content="true" />
+    <w:capability name="BLIP_SUBMITTED" content="true" />
+    <w:capability name="BLIP_VERSION_CHANGED" content="true" />
+  </w:capabilities>
+  <w:version>3</w:version>
+  <w:profile name="CDKitty" imageurl="/avatar.png" profileurl="/_wave/profile.xml" />
+</w:robot>
